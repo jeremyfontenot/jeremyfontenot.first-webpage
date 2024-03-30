@@ -1,4 +1,4 @@
-# jeremyfontenot.github.io
+# jeremyfontenot.first-webpage
 Personal Website
 
 This repository hosts the code for my personal website, a platform where I share my professional journey, skills, and achievements. Designed with simplicity in mind, it utilizes HTML and CSS to create a clean and responsive user experience.
